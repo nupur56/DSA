@@ -1,6 +1,6 @@
 [Project]
-FileName=missing_no.cpp.dev
-Name=missing_no.cpp
+FileName=Rotate.cpp.dev
+Name=Rotate.cpp
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=missing_no.xcpp.cpp
+FileName=Rotate.cpp
 CompileCpp=1
 Folder=
 Compile=1
